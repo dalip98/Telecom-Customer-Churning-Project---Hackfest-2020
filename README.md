@@ -2,5 +2,5 @@
 This project is developed specifically for Hackfest- 2020.
 
 By
-Dalip Patra
+Dalip Patra.
 Vaibhav Sharma
